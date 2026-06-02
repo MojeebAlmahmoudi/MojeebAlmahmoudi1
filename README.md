@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Mojeeb Al-Mahmoudi | مجيب المحمودي
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Mojeeb Al-Mahmoudi
 
 <div align="center">
 
