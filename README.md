@@ -4,9 +4,11 @@
 
 ### 🚀 Web & Mobile Developer
 
-### 🎯 Programming Content Creator
+### 🎯 Programming Content Creator @sci_.code
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Programming+Content+Creator;Always+Learning+New+Things" />
+### 🌱 Learning C++ & Tailwind CSS
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Mobile+App+Developer;Programming+Content+Creator;Open+Source+Enthusiast;Always+Learning+New+Things" />
 
 <br>
 
@@ -18,14 +20,15 @@
 
 ## 💫 About Me
 
-I'm a passionate developer from Yemen who enjoys building modern digital experiences and sharing knowledge with the programming community.
+I'm Mojeeb Al-Mahmoudi, a passionate Web & Mobile Developer from Yemen and a Programming Content Creator.
 
-* 💻 Building modern web applications
-* 📱 Developing mobile applications
-* 🎥 Creating programming content
-* 🌱 Continuously learning new technologies
-* ⚡ Passionate about clean code and problem solving
-* 🚀 Interested in startups, SaaS, and scalable products
+* 💻 Building modern web applications and digital products
+* 📱 Developing mobile applications with modern technologies
+* 🎥 Sharing programming knowledge through content creation
+* 🌱 Currently learning C++, Tailwind CSS, and advanced software development concepts
+* ⚡ Passionate about clean code, performance, and problem solving
+* 🚀 Interested in startups, SaaS products, and open-source projects
+* 📚 Always exploring new technologies and development tools
 
 ---
 
@@ -36,10 +39,12 @@ I'm a passionate developer from Yemen who enjoys building modern digital experie
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
@@ -85,12 +90,14 @@ I'm a passionate developer from Yemen who enjoys building modern digital experie
 ## 🎯 Current Focus
 
 ```text
-✓ Web Development
-✓ Mobile Applications
-✓ Content Creation
-✓ Open Source
+✓ Laravel Development
+✓ Vue.js Applications
+✓ Mobile Development with Flutter
+✓ Learning C++
+✓ Learning Tailwind CSS
+✓ Content Creation (@sci_.code)
+✓ Open Source Projects
 ✓ Software Architecture
-✓ Artificial Intelligence
 ```
 
 ---
