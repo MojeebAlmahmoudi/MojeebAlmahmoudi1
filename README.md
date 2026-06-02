@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -44,7 +44,7 @@ I'm Mojeeb Al-Mahmoudi, a passionate Web & Mobile Developer from Yemen and a Pro
 ### Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
@@ -73,15 +73,15 @@ I'm Mojeeb Al-Mahmoudi, a passionate Web & Mobile Developer from Yemen and a Pro
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -120,13 +120,32 @@ I create educational content about:
 
 ## 🤝 Let's Connect
 
+<p align="center">
+
 <a href="https://instagram.com/sci_.code">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
+
+### 📫 Reach Me
+
+* 📷 Instagram: **@sci_.code**
+* 💬 Telegram: **@YOUR_TELEGRAM_USERNAME**
+* 🎵 TikTok: **@YOUR_TIKTOK_USERNAME**
+* 💻 GitHub: **@YOUR_GITHUB_USERNAME**
 
 ---
 
