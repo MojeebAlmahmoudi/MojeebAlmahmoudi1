@@ -1,38 +1,49 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Mojeeb Al-Mahmoudi
+# Hi, I'm Mojeeb Al-Mahmoudi 👋
 
 <div align="center">
 
-### 🚀 Web & Mobile Developer
+### Web & Mobile Developer
 
-### 🎯 Programming Content Creator @sci_.code
+### Programming Content Creator • @sci_.code
 
-### 🌱 Learning C++ & Tailwind CSS
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Mobile+App+Developer;Programming+Content+Creator;Open+Source+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Mobile+App+Developer;Laravel+Developer;Flutter+Developer;Programming+Content+Creator;Always+Learning+New+Things" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-I'm Mojeeb Al-Mahmoudi, a passionate Web & Mobile Developer from Yemen and a Programming Content Creator.
-
-* 💻 Building modern web applications and digital products
-* 📱 Developing mobile applications with modern technologies
-* 🎥 Sharing programming knowledge through content creation
-* 🌱 Currently learning C++, Tailwind CSS, and advanced software development concepts
-* ⚡ Passionate about clean code, performance, and problem solving
+* 💻 Web & Mobile Developer from Yemen
+* 🎯 Programming Content Creator at **@sci_.code**
+* 🌱 Currently learning **C++** and **Tailwind CSS**
+* ⚡ Passionate about clean code and software architecture
+* 📱 Building modern web and mobile applications
 * 🚀 Interested in startups, SaaS products, and open-source projects
-* 📚 Always exploring new technologies and development tools
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -69,20 +80,15 @@ I'm Mojeeb Al-Mahmoudi, a passionate Web & Mobile Developer from Yemen and a Pro
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -92,60 +98,12 @@ I'm Mojeeb Al-Mahmoudi, a passionate Web & Mobile Developer from Yemen and a Pro
 ```text
 ✓ Laravel Development
 ✓ Vue.js Applications
-✓ Mobile Development with Flutter
+✓ Flutter Development
 ✓ Learning C++
 ✓ Learning Tailwind CSS
-✓ Content Creation (@sci_.code)
+✓ Content Creation
 ✓ Open Source Projects
-✓ Software Architecture
 ```
-
----
-
-## 📸 Content Creator
-
-I create educational content about:
-
-* Programming
-* Web Development
-* Mobile Development
-* Software Engineering
-* Technology
-
-### Instagram
-
-@sci_.code
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://instagram.com/sci_.code">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-### 📫 Reach Me
-
-* 📷 Instagram: **@sci_.code**
-* 💬 Telegram: **@YOUR_TELEGRAM_USERNAME**
-* 🎵 TikTok: **@YOUR_TIKTOK_USERNAME**
-* 💻 GitHub: **@YOUR_GITHUB_USERNAME**
 
 ---
 
